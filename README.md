@@ -2,7 +2,7 @@
 
 
 Attack Model:
-  1. Fast Gradient Sign Method 
+  1. Fast Gradient Sign Method: [Fashion MNIST](https://github.com/juliachenc/DSCI552/blob/main/Attack%20-%20adversarial%20example%20using%20FGSM%20(Fashion%20MNIST).ipynb),  
   2. Projected Gradient Descent
   3. Carlini & Wagner method
 
