@@ -8,5 +8,4 @@ Attack Model:
 
 Defense Model:
   1. Adversarial Training
-  2. Gradient Masking
-  3. Reactive Defense 
+  2. Reactive Defense 
