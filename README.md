@@ -10,4 +10,4 @@ Defense Model:
   1. Adversarial Training
   2. Reactive Defense 
 
-Report: 
+Report: (https://github.com/juliachenc/DSCI552/blob/main/DSCI552_Project.pdf)[here]
